@@ -4,7 +4,6 @@ extern crate fixedbitset;
 
 use fixedbitset::FixedBitSet;
 use js_sys::Math;
-use utils::Timer;
 use wasm_bindgen::prelude::*;
 
 /// A Universe is a game of life map
