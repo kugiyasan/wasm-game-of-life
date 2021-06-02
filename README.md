@@ -1,3 +1,6 @@
+# Conway's Game of Life
+Made with wasm and rust
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
